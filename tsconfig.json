@@ -7,16 +7,6 @@
 		"moduleResolution": "Node10",
 		"esModuleInterop": true,
 
-		// new
-
-		"allowJs": true,
-		"skipLibCheck": true,
-		"strict": true,
-		"noEmit": true,
-		"resolveJsonModule": true,
-		"isolatedModules": true,
-		"incremental": true,
-
 		"jsx": "react-jsx",
 
 		"sourceMap": true,
